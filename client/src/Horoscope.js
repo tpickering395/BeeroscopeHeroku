@@ -59,7 +59,7 @@ class Beeroscope extends Component {
 		<table id = "signs">
 		<tr>
 			<td><div class = "aries">
-				<button onClick={() => getBeeroscope("ARIES")}><img src=""https://i.imgur.com/pa5dvx0.png" width="100" height="100"></img></button>
+				<button onClick={() => getBeeroscope("ARIES")}><img src="https://i.imgur.com/pa5dvx0.png" width="100" height="100"></img></button>
 			</div></td>
 			<td><div class = "taurus">
 				<button onClick={() => getBeeroscope("TAURUS")}><img src="https://i.imgur.com/WYv5Lry.png" width="100" height="100"></img></button>
